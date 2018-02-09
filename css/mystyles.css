@@ -1,0 +1,22 @@
+/* This is my style sheet */
+body {
+	background-color: lightgreen;
+}
+
+h1{
+	text-align: center;
+	color: green;
+	font-family: 'Francois One', sans-serif;
+	background-color: pink ;
+	margin-top: 3%;
+	padding-top: 0%;
+	text-shadow: 5px 5px #493a37;
+	font-size: 70px;
+	height: 100px;
+	vertical-align: text-bottom;
+}
+
+#TopPic {text-align: center;
+background-image: url("../images/Green background.jpg");
+margin-top: 50px; 
+}
